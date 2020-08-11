@@ -1,0 +1,6 @@
+login: 先示范错误，用户名，密码
+	然后使用pink登录。
+Login-mainpage:
+	我会先说默认展示的current add 10
+	然后说set goal，3种情况
+	login之后navigator的变化
